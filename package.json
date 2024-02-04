@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"cac": "^6.7.14",
+		"picocolors": "^1.0.0",
+		"typescript": "^5.3.3"
+	},
+	"type": "module",
+	"dependencies": {
+		"@inquirer/prompts": "^3.3.2"
+	}
+}
